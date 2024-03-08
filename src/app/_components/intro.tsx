@@ -16,6 +16,7 @@ export function Intro() {
         </a>{" "}
         and {CMS_NAME}.
       </h4>
+      <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>
     </section>
   );
 }
