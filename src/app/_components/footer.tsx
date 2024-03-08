@@ -23,6 +23,7 @@ export function Footer() {
               View on GitHub
             </a>
           </div>
+          <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>
         </div>
       </Container>
     </footer>
