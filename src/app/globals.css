@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.chat{
+    z-index: 1;
+}
+
+.video{
+    z-index: 2;
+}
