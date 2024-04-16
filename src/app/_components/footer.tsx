@@ -23,7 +23,7 @@ export function Footer() {
               View on GitHub
             </a>
           </div>
-          <div id='zoom'></div>
+          <button id='zoom'></button>
           {/* <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script> */}
           {/* <script data-entry-id="GQEgrbkBSRKDprceQMqvqg" data-env="us01" data-apikey="aERpcc4gSZSOM_JcHsn0ng" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/video-client.js"></script> */}
         </div>
