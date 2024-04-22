@@ -21,7 +21,10 @@ export function Footer() {
               className="mx-3 font-bold hover:underline"
             >
               View on GitHub
+<<<<<<< HEAD
             </a>
+=======
+>>>>>>> 644f12884319e8ea17c67baeb978135cda8c2b7f
           </div>
           <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>
           <script data-entry-id="GQEgrbkBSRKDprceQMqvqg" data-env="us01" data-apikey="aERpcc4gSZSOM_JcHsn0ng" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/video-client.js"></script>
