@@ -21,18 +21,9 @@ export function Footer() {
               className="mx-3 font-bold hover:underline"
             >
               View on GitHub
-            </a>
-            
-            <a
-              href="zoom"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-              id="zoom"
-            >
-              zoom_chat_connect
-            </a>
           </div>
-          {/* <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>  */}
-          {/* <script data-entry-id="GQEgrbkBSRKDprceQMqvqg" data-env="us01" data-apikey="aERpcc4gSZSOM_JcHsn0ng" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/video-client.js"></script> */}
+          <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>
+          <script data-entry-id="GQEgrbkBSRKDprceQMqvqg" data-env="us01" data-apikey="aERpcc4gSZSOM_JcHsn0ng" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/video-client.js"></script>
         </div>
       </Container>
     </footer>
