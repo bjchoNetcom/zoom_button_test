@@ -12,7 +12,7 @@ export function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         These are test pages for using {" "}
         <a
-          href="https://nextjs.org/"
+          href="https://zoom.us/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           Zoom
