@@ -23,10 +23,7 @@ export function Footer() {
               View on GitHub
             </a>
           </div>
-          <script data-chat-entry-id="Desw5i-GSIG3RuCAP_gJzg" data-env="us01" data-apikey="aERpcc4gSZSOM_JcHsn0ng" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/chat-client.js"></script>
-          <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>
-          
-        </div>
+         </div>
       </Container>
     </footer>
   );
