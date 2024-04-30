@@ -22,7 +22,10 @@ export function Footer() {
             >
               View on GitHub
             </a>
-            <div id="chat-button">
+            <div id="btn-wrapper">
+              Contact Us
+              <div id="chat-button">
+              </div>
             </div>
           </div>
           <script data-apikey="aERpcc4gSZSOM_JcHsn0ng" data-env="us01" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js"></script>
