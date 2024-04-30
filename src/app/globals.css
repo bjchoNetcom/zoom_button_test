@@ -2,11 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-#chat-button {
+#btn-wrapper {
     border-radius: 15px;
     background-color: blue;
+    color: white;
 }
 
-#chat-buuton > * {
-    color: white;
+#chat-buuton {
+    background-color: transparent;
 }
