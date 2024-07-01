@@ -11,3 +11,7 @@
 #chat-buuton {
     background-color: transparent;
 }
+
+#oneline {
+    display: inline;
+}
