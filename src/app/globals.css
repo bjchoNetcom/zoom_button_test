@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 #btn-wrapper {
-    border-radius: 15px;
-    background-color: blue;
+    border-radius: 45px;
+    background-color: #f16d2b;
     color: white;
 }
 
