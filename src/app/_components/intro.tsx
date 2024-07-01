@@ -7,11 +7,11 @@ export function Intro() {
       <h1 className="text-5xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">        
           Netcom Solution
       </h1>
-      /*
+      <!-- 
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Beyond The Technology for Customer
       </h4>
-      */
+      -->
     </section>
   );
 }
