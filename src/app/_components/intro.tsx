@@ -7,13 +7,9 @@ export function Intro() {
     <section className="flex-col flex items-right md:justify-between mt-8 mb-8 md:mt-4 mb-4">
       
         <h1 className="text-6xl md:text-6xl font-bold tracking-tighter leading-tight pr-8 md: pr-8">        
-            Netcom Solution
+            Netcom Solution                  ☰
         </h1>
         
-        <div id="btn-wrapper">
-          ☰          
-          <div id="chat-buuton"/>
-        </div>
     </section>
   );
 }
