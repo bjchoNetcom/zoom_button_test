@@ -7,7 +7,7 @@ export function Intro() {
     <section className="fixed top-0 left-0 w-full flex items-center justify-between p-4 bg-white shadow-md z-50">
 
       <div className="flex items-center">
-        <Image 
+        <img 
             src="/public/logo.png" 
             alt="Netcom Solution Logo" 
             width={200} // 로고 이미지의 너비
