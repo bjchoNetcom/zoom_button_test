@@ -11,7 +11,7 @@ export function Intro() {
         <h4 className="text-3xl md:text-3xl font-bold tracking-tighter leading-tight pr-8 md:pr-8">
           Netcom Solution
         </h4>
-        <Image src="/public/images/logo.png" alt="logo" />
+        <Image src='./logo.png' alt='logo' />
         </div>
         <div id="btn-wrapper" className="ml-auto">
           <span className="text-2xl">☰</span>
