@@ -10,7 +10,7 @@ export function Intro() {
             Netcom Solution
         </h1>
         
-        <div id="btn-wrapper" className="text-6xl md:text-6xl font-bold tracking-tighter mb-8 text-right md: mb-8">
+        <div id="btn-wrapper">
           ☰          
           <div id="chat-buuton"/>
         </div>
