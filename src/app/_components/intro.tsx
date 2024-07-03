@@ -4,17 +4,22 @@ import Link from "next/link";
 export function Intro() {
   return (
 
-    <section className="flex-row flex items-right md:justify-between mt-8 mb-8 md:mt-4 mb-4">
+    <section className="fixed top-0 left-0 w-full flex items-center justify-between p-4 bg-white shadow-md z-50">
+
+      <div className="flex items-center">
+        <Image 
+            src="/public/logo.png" 
+            alt="Netcom Solution Logo" 
+            width={200} // 로고 이미지의 너비
+            height={100} // 로고 이미지의 높이
+            className="object-contain"
+          />
       
-        <h1 className="text-6xl md:text-6xl font-bold tracking-tighter leading-tight pr-8 md: pr-8">        
-            Netcom Solution                 
-        </h1>
 
         <div id="btn-wrapper">
-          ☰
-          <div chat-button/>
+          <span className="text-2xl">☰</span>
         </div>
-
+      </div>
     </section>
   );
 }
