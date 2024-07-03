@@ -14,7 +14,6 @@ export function Intro() {
           ☰          
           <div id="chat-buuton"/>
         </div>
-      </div>
     </section>
   );
 }
