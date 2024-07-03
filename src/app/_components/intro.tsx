@@ -7,14 +7,10 @@ export function Intro() {
 
     <section className="fixed top-0 left-0 w-full flex items-end justify-between p-4 bg-white shadow-md z-20">
 
-      <div className="flex items-end">
-        <Image
-            src="src/public/logo.png" 
-            alt="Netcom Solution Logo"
-            width={200}
-            height={100}
-            className="object-contain"
-          />
+      <div className="flex items-center">
+        <h1 className="text-6xl md:text-6xl font-bold tracking-tighter leading-tight pr-8 md:pr-8">
+          Netcom Solution
+        </h1>
       
 
         <div id="btn-wrapper">
