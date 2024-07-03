@@ -12,8 +12,7 @@ export function Intro() {
         
         <div id="btn-wrapper" className="text-6xl md:text-6xl font-bold tracking-tighter mb-8 text-right md: mb-8">
           ☰          
-          <div id="chat-buuton">
-          </div>
+          <div id="chat-buuton"/>
         </div>
       </div>
     </section>
