@@ -12,11 +12,10 @@ export function Intro() {
           Netcom Solution
         </h2>
       
-
+        </div>
         <div id="btn-wrapper" className="ml-auto">
           <span className="text-4xl">☰</span>
-        </div>
-      </div>
+        </div>   
     </section>
   );
 }
