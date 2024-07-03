@@ -9,7 +9,7 @@ export function Intro() {
 
       <div className="flex items-center">
         <Image
-            src="@/public/logo.png" 
+            src="/public/logo.png" 
             alt="Netcom Solution Logo"
             width={200}
             height={100}
